@@ -6,6 +6,7 @@ Quer ter um feed com um aprendizado constante? Essa lista é pra você ❤
 Nome | Twitter | Medium
 ------------ | ------- | ------------
 Nicholas Eduardo | [Twitter](https://twitter.com/nicholasess) | [Medium](https://medium.com/@nicholasess)
+Willian Justen | -- | [Blog](https://willianjusten.com.br/)
 
 ## Licença
 
